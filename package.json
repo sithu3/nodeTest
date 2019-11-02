@@ -17,7 +17,7 @@
     "http-errors": "~1.6.2",
     "mongo": "^0.1.0",
     "mongod": "^2.0.0",
-    "mongoose": "^5.5.9",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.0"
   }
 }
